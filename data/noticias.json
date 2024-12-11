@@ -1,0 +1,35 @@
+{
+  "noticias": [
+    {
+      "titulo": "Alistamento militar feminino começa em 1° de janeiro; veja detalhes",
+      "noticia": "O Ministério da Defesa anunciou nesta quarta-feira (11) que mulheres que completarem 18 anos em 2025 poderão, de 1º de janeiro a 30 de junho, realizar o alistamento militar voluntário.",
+      "imagem": "noticia1.webp",
+      "link": "https://g1.globo.com/politica/noticia/2024/12/11/alistamento-militar-feminino-comeca-em-1-de-janeiro-veja-detalhes.ghtml"
+    },
+    {
+      "titulo": "Justiça condena Caiado por abuso de poder político e cassa registro de Mabel, prefeito eleito de Goiânia",
+      "noticia": "Uma decisão da Justiça Eleitoral de Goiás condenou, nesta quarta-feira (11), o governador Ronaldo Caiado (União) por abuso de poder político e cassou o registro do prefeito eleito de Goiânia Sandro Mabel (União). A decisão determinou que eles fiquem inelegíveis por oito anos. A vice de Mabel, Cláudia Lira (Avante), também foi condenada. Cabe recurso da decisão.",
+      "imagem": "noticia2.avif",
+      "link": "https://g1.globo.com/go/goias/noticia/2024/12/11/justica-condena-caiado-por-abuso-de-poder-politico-e-cassa-registro-de-prefeito-eleito-de-mabel-em-goiania.ghtml"
+    },
+    {
+      "titulo": "Entenda esquema de desvios milionários de recursos públicos que terminou com prisões de 15 pessoas na Bahia, São Paulo e Goiás",
+      "noticia": "Quinze pessoas foram presas pela Polícia Federal, na terça-feira (10), na Bahia, em São Paulo e em Goiás, durante uma operação contra uma organização criminosa suspeita de atuar em fraudes licitatórias, desvio de recursos públicos, corrupção e lavagem de dinheiro.",
+      "imagem": "noticia4.avif",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2024/12/11/entenda-esquema-de-desvios-milionarios-em-recursos-publicos.ghtml"
+    },
+    {
+      "titulo":"Leite Compensado: MP identifica uso de soda cáustica e água oxigenada em produtos lácteos de fábrica no RS; 5 foram presos",
+      "noticia": "O Ministério Público (MP) faz operação, nesta quarta-feira (11), contra a adulteração de produtos lácteos para disfarçar a deterioração em uma fábrica da Dielat localizada no município de Taquara, na Região Metropolitana de Porto Alegre. Cinco pessoas foram presas até o momento. É a 13ª fase da Operação Leite Compensado.",
+      "imagem": "noticia3.avif",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/12/11/leite-compensado-mp-identifica-uso-de-soda-caustica-e-agua-oxigenada-em-produtos-lacteos-de-fabrica-no-rs-4-sao-presos.ghtml"
+    },
+    {
+      "titulo": "Pacote da 'segurança' de Lira tem jabuti que até anistia arma ilegal: 'desmonte do Estatuto do Desarmamento'",
+      "noticia": "A Câmara aprovou o regime de urgência para a votação de uma série de projetos que, em tese, nas palavras do presidente da Casa, Arthur Lira (PP-AL), representam uma resposta à crise da segurança pública no país.",
+      "imagem": "noticia5.avif",
+      "link": "https://g1.globo.com/politica/blog/daniela-lima/post/2024/12/11/pacote-da-seguranca-de-lira-tem-jabuti-que-ate-anistia-arma-ilegal-desmonte-do-estatuto-do-desarmamento.ghtml"
+    }
+  ]
+  
+}
